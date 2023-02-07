@@ -1,0 +1,30 @@
+
+.first_div{
+    background-color: #dad2bc;
+    border-radius: 0px 25px 25px 0px;
+    height: 700px;
+    padding-left: 200px;
+}
+.second_div{
+    background-color: #f5f1ed;
+    border-radius: 25px 0px 0px 25px;
+    height: 700px;
+}
+
+hr {
+    margin: 1rem 0;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: 0.25;
+  }
+
+  @font-face {
+    font-family: myFirstFont;
+    src: url(IRANSansWeb_UltraLight.ttf);
+  }
+  
+  div {
+    font-family: myFirstFont;
+    font-weight: bold;
+  }

@@ -1,0 +1,35 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(m.ttf);
+    font-weight: bold;
+}
+
+body {
+    font-family: myFirstFont;
+    background-color:#f5f1ed ;
+
+}
+
+.div{
+    background-color: white;
+    border-bottom: solid;
+    height: 60px;
+    margin: auto;
+    width: 90%;
+}
+.div2{
+    height: 30px;
+    width: 180px;
+    background-color: black;
+    
+
+}
+.p1{
+    color: white;
+    margin-right: 80px;
+    margin-top: 5px;
+}
+.p2 {
+    color: grey;
+    font-size: small;
+}
